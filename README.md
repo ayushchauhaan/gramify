@@ -1,6 +1,6 @@
-# instagram_clone
+# Gramify
 
-A new Flutter project.
+A Instagram like application.
 
 ## Getting Started
 
