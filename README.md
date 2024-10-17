@@ -1,7 +1,13 @@
 # Gramify
 
 A Instagram like application.
-
+-Developed a social media application using Flutter and Firebase, featuring user authentication,
+ content sharing, and real-time updates.
+ -Utilized Provider for state management to ensure a smooth and responsive user experience
+ across multiple screens and functionalities.
+-Managed and processed extensive data sets representing the users’ accounts and their connections.
+-Integrated Firebase services for authentication, cloud storage, and real-time database management,
+ ensuring secure and scalable user interactions and content handling
 ## Getting Started
 
 This project is a starting point for a Flutter application.
